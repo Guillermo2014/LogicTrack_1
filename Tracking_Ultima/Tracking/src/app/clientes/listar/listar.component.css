@@ -1,0 +1,11 @@
+.d-flex{
+    width: 300px;
+}
+
+.container.ml-auto{
+    margin-left: 100px;
+}
+
+.d-flex.mr-6{
+    margin-left: auto;
+}
